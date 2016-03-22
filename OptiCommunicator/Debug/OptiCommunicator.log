@@ -1,0 +1,19 @@
+﻿2016/03/16 17:51:02 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\kensuke\Desktop\OptiTrack開発用サンプルプログラム - コピー - コピー\OptiCommunicator\OptiCommunicator.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\kensuke\Desktop\OptiTrack開発用サンプルプログラム - コピー - コピー\OptiCommunicator\natnet" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /FIstdafx.h /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kensuke\Desktop\OptiTrack開発用サンプルプログラム - コピー - コピー\Debug\OptiCommunicator.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\kensuke\Desktop\OptiTrack開発用サンプルプログラム - コピー - コピー\OptiCommunicator\natnet" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\kensuke\Desktop\OptiTrack開発用サンプルプログラム - コピー - コピー\Debug\OptiCommunicator.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kensuke\Desktop\OptiTrack開発用サンプルプログラム - コピー - コピー\Debug\OptiCommunicator.lib" /MACHINE:X86 Debug\main.obj
+         OptiCommunicator.vcxproj -> C:\Users\kensuke\Desktop\OptiTrack開発用サンプルプログラム - コピー - コピー\Debug\OptiCommunicator.exe
+       PostBuildEvent:
+         call "C:\Users\kensuke\Desktop\OptiTrack開発用サンプルプログラム - コピー - コピー\OptiCommunicator\copyDll.bat" "C:\Users\kensuke\Desktop\OptiTrack開発用サンプルプログラム - コピー - コピー\Debug\" "C:\Users\kensuke\Desktop\OptiTrack開発用サンプルプログラム - コピー - コピー\OptiCommunicator\"
+         :VCEnd
+         C:\Users\kensuke\Desktop\OptiTrack開発用サンプルプログラム - コピー - コピー\OptiCommunicator\\natnet\NatNetLib.dll
+         C:\Users\kensuke\Desktop\OptiTrack開発用サンプルプログラム - コピー - コピー\OptiCommunicator\\natnet\NatNetML.dll
+                 2 個のファイルをコピーしました。
+     1>プロジェクト "C:\Users\kensuke\Desktop\OptiTrack開発用サンプルプログラム - コピー - コピー\OptiCommunicator\OptiCommunicator.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.65
